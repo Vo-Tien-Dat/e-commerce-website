@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/gioHangNotLogin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#D9D9D9">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_sad"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Vui lòng đăng nhập để sử dụng chức năng này"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:textColor="#000"
+        android:layout_marginBottom="6dp"/>
+
+    <Button
+        android:id="@+id/bgin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Đăng nhập"
+        android:textColor="#FFF"
+        android:backgroundTint="#D9534F"/>
+</LinearLayout>

@@ -1,0 +1,13 @@
+1) Làm màn hình để chọn giữa 2 chế độ: đăng nhập, ko đăng nhập
+2) Nếu ở chế độ ko đăng nhập thì khi bấm vào giỏ hàng sẽ hiện lên màn hình bắt đăng nhập
+3) Nếu ở chế độ đăng nhập thì cho vào xem giỏ hàng
+	- Giỏ hàng chưa có hàng
+	- Giỏ hàng có hàng
+4) Khi giỏ hàng chưa chọn sản phẩm thì bấm vào nút mua hàng sẽ hiện lên message box
+5) Khi giỏ hàng có hàng mà chọn sản phẩm để mua thì hiện giao diện thanh toán
+
+Mã màu: 
+	Xanh: 4E85D7
+	Xám nhạt: D9D9D9
+	Xám đậm: 767676
+	Đỏ: D9534F
